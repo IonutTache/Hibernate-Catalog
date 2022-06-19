@@ -254,8 +254,3 @@ public class MainExScoala {
     }
 }
 
-//lectia 5 = 2 si 4 din zip-ul lui George
-// lectia 6 - ex 4 si 5
-// lectia 7 - ex 4 si 3
-//lectia 8 - ex 4
-//lectia 10 - ex 3
